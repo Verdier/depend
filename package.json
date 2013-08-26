@@ -1,6 +1,6 @@
 {
   "name": "depend",
-  "version": "0.0.1-beta",
+  "version": "0.0.1",
   "description": "Dependency injection system.",
   "keywords": ["dependency", "injection", "mock", "unit", "test"],
   "author": "Luc Verdier <luc.verdier1@gmail.com>",
