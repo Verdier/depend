@@ -1,8 +1,12 @@
 # Depend #
 Depend is a *dependency injection* system.
 
-## Usage ##
+## Installation ##
+```
+npm install depend
+```
 
+## Usage ##
 ```javascript
 depend = require('depend');
 
@@ -19,7 +23,6 @@ var service2 = depend.get('service2');
 ```
 
 ## Testing ##
-
 ```javascript
 depend.inject('service1', function () {
     return /* mock service */
