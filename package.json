@@ -1,0 +1,15 @@
+{
+  "name": "depend",
+  "version": "0.0.1-beta",
+  "description": "Dependency injection system.",
+  "keywords": ["dependency", "injection", "mock", "unit", "test"],
+  "author": "Luc Verdier <luc.verdier1@gmail.com>",
+  "main": "./src/depend",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-jsbeautifier": "~0.1.9",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-jasmine-node": "~0.1.0"
+  }
+}
