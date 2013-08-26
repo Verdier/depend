@@ -1,4 +1,4 @@
-# PolyFlow #
+# Depend #
 Depend is a *dependency injection* system.
 
 ## Usage ##
